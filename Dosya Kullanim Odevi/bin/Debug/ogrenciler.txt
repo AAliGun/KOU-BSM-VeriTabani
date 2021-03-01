@@ -1,0 +1,5 @@
+a;b;a;a;ERKEK;a;a;a
+ali;gun;191307005;bsm;ERKEK;bursa;21;5076328783
+ayşe;seleni;201101100;GİT;KADIN;ankara;22;05555555555
+
+

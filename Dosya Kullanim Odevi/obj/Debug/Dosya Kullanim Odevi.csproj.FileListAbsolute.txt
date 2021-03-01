@@ -1,0 +1,10 @@
+D:\GitHub\KOU-BSM-VeriTabani\Dosya Kullanim Odevi\bin\Debug\Dosya Kullanim Odevi.exe.config
+D:\GitHub\KOU-BSM-VeriTabani\Dosya Kullanim Odevi\bin\Debug\Dosya Kullanim Odevi.exe
+D:\GitHub\KOU-BSM-VeriTabani\Dosya Kullanim Odevi\bin\Debug\Dosya Kullanim Odevi.pdb
+D:\GitHub\KOU-BSM-VeriTabani\Dosya Kullanim Odevi\obj\Debug\Dosya Kullanim Odevi.csprojAssemblyReference.cache
+D:\GitHub\KOU-BSM-VeriTabani\Dosya Kullanim Odevi\obj\Debug\Dosya_Kullanim_Odevi.Form1.resources
+D:\GitHub\KOU-BSM-VeriTabani\Dosya Kullanim Odevi\obj\Debug\Dosya_Kullanim_Odevi.Properties.Resources.resources
+D:\GitHub\KOU-BSM-VeriTabani\Dosya Kullanim Odevi\obj\Debug\Dosya Kullanim Odevi.csproj.GenerateResource.cache
+D:\GitHub\KOU-BSM-VeriTabani\Dosya Kullanim Odevi\obj\Debug\Dosya Kullanim Odevi.csproj.CoreCompileInputs.cache
+D:\GitHub\KOU-BSM-VeriTabani\Dosya Kullanim Odevi\obj\Debug\Dosya Kullanim Odevi.exe
+D:\GitHub\KOU-BSM-VeriTabani\Dosya Kullanim Odevi\obj\Debug\Dosya Kullanim Odevi.pdb

@@ -1,0 +1,18 @@
+Ödev4-SQL Tabloları- GİRİŞ (2021) Sayfasında oluşturduğunuz veritabanı ilişkisel şemasına göre, aşağıdaki soruları çözmek için gerekli SQL komutlarını yazın.
+ 1-54 numaralı öğrencinin adı, soyadı ve cinsiyet bilgilerini veren sql komutu nedir?
+
+2-Derslerin adını ve kodunu veren sql komutu nedir?
+
+3-Geometri dersinin kodunu veren sql komutu nedir?
+
+4-Erkek öğrencilerin sınıflarının kodunu veren sql komutu nedir?
+
+5-Alınan notlardan 50 ve üstü alan öğrencilerin numarasını veren sql komutu nedir?
+
+6-Alınan notlardan 50 ve altı alan öğrencilerin numara ve bulundukları ders kodunu veren sql komutu nedir?
+
+7-Alınan derslerden en düşük notu alan öğrencinin numarasını veren sql komutu nedir?
+
+Yazdığınız sorguları ekte verilen NUMARA_Ad1_Ad2_Soyad.sql taslağı üzerine yazın (cevaplarınızı taslakta "XXX" ve "xxx" olarak işaretlenmiş alanlar üzerine yazın).
+
+UYARI: Taslak üzerinde değişiklikleri kaydettikten sonra aynı taslak dosyasını, dosya isim formatına dikkat ederek sisteme yükleyiniz. 

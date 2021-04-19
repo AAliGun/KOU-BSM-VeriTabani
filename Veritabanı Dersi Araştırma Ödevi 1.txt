@@ -1,0 +1,31 @@
+Veritabanı nedir ?
+Elektronik bir ortamda yapılandırılmış bir şekilde saklanan düzenli bir veri topluluğudur. genellikle kendine ait bir yönetim sistemi ile kontrol edilir ( veritabanı yönetim sistemi) günümüzde en sık kullanılan veritabanı türü SQL tipidir.
+
+İlişkisel veritabanı nedir ?
+Bir biri ile ilişkili verilerin ilişki çeşitlerinin depolandığı bir veri tabanı türüdür. her kayıt kendisine ait spesifik bir id taşır. normal veritabanına göre daha anlaşılrı bir veritabanı sistemidir.
+
+ANSI SQL Standardı nedir ? En güncel Ansi SQL standartı nedir ? (SQL-86, SQL-89, SQL-92, SQL:1999, SQL:2003, SQL:2008, !SQL:2010 ??, !SQL:2011 ?? )
+ANSI(Amerikan Ulusal Standartlar Enstitüsü) türkiyedeki TSE gibi standartları belirleyen ve kontrol eden bir kuruluştur ANSI SQL ilse bu kuruluşun SQL için belirlediği standartlardır. en güncel ANSİ SQL standartı !SQL:2016 diğer ifade ediliş şekli ile ISO/IEC 9075-13:2016 idir.
+
+MySQL nedir ?
+Açık kaynak kodlu bir SQL veritabanıdır.
+WAMP nedir ?
+WAMP, windows bir bilgisayarda sanal bir sunucu kurmak için gerekli olan pragramdır. Linux işletim sistemi için LAMP mac için MAMP kullanılır. AMP -Apache, MySQL, PHP yi temsil eder ilk harfi ise işletim sistemini. PHP Apache ile çalışarak MySQL ile iletişim kurar.
+WAMP ve MySQL farkı nedir ?
+MySQL bir veritabanı iken WAMP bir sanal sunucudur ve MySQL ile olan iletişimi sağlar.
+
+MySQL'in ücreti varmıdır? Kim için ne kadar ücreti vardır? WAMP ücretlimidir?
+MySQL Genel Kamu Lisansı (GPL) ile ücretsiz olarak kullanılabilir fakat ticaeri faliyetler için ORACLE firmasından lisans alınması gereklidir.
+https://www.mysql.com/products/ sitesine göre
+standart için 2000 $
+Enterprise için 5000 $
+Cluster CGE için 10000 $
+
+
+WAMP GPL Genel Kamu Lisansı ile ücretsiz olarak kullanılabilir.
+
+MySQL'in en güncel stabil sürümü kaçtır? (stable version)
+8.0.23 / 18 ocak 2021 tarihinde çıkmıştır
+
+Şu andaki MySQL'in sahibi hangi şirkettir ? (En büyük patronları?<apple,microsoft,sun,oracle>)
+Oracle ve Sun Microsystems
